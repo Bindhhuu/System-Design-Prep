@@ -8,7 +8,7 @@ Whether you're preparing for interviews, working on backend architecture, or jus
 
 ## 📚 Topics Covered
 
-- 🔹 [Vertical vs Horizontal Scaling](<./Vertical and Horizontal Scaling.md>)
+- 🔹 [Vertical vs Horizontal Scaling](Vertical and Horizontal Scaling)
 - 🔹 Load Balancers
 - 🔹 Caching Strategies
 - 🔹 Database Sharding
