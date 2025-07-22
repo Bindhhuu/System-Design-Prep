@@ -1,1 +1,77 @@
-# System-Design-Prep
+# 🧠 System Design Notes
+
+Welcome to **System Design Notes** — a curated collection of crisp, clear, and practical notes to help you understand the building blocks of scalable and reliable systems.
+
+Whether you're preparing for interviews, working on backend architecture, or just leveling up your skills — this repo is for you.
+
+---
+
+## 📚 Topics Covered
+
+- 🔹 [Vertical vs Horizontal Scaling](<./Vertical and Horizontal Scaling.md>)
+- 🔹 Load Balancers
+- 🔹 Caching Strategies
+- 🔹 Database Sharding
+- 🔹 SQL vs NoSQL
+- 🔹 Database Replication
+- 🔹 CAP Theorem
+- 🔹 Consistent Hashing
+- 🔹 CDN (Content Delivery Network)
+- 🔹 Rate Limiting
+- 🔹 API Gateway
+- 🔹 Fault Tolerance & High Availability
+- 🔹 Message Queues
+- 🔹 Event-Driven Architecture
+- 🔹 Microservices vs Monolith
+
+> 🛠 More topics and diagrams coming soon!
+
+---
+
+---
+
+## 🚀 Why This Repo?
+
+System design is a must-have skill for:
+- Backend & Full Stack Engineers  
+- SDE-2+ Interviews  
+- Architects & Tech Leads  
+- Anyone building scalable systems
+
+This repo helps you:
+- 🧩 Understand core concepts  
+- 📝 Revise quickly before interviews  
+- 📂 Maintain structured notes  
+- 💡 Apply principles in real projects
+
+---
+
+## ✅ How to Use
+
+1. Browse each file for topic-specific notes  
+2. Clone or star ⭐ this repo for easy access  
+3. Fork 🍴 to add your own content or extend topics  
+
+---
+
+
+## 🤝 Contribute
+
+Feel free to:
+- Fix typos or formatting issues  
+- Add new notes or improve existing ones  
+- Share your interview experience or use cases
+
+> Just raise a pull request or open an issue 💬
+
+---
+
+## ✨ Stay Connected
+
+Have suggestions or want to collaborate?  
+📩 Reach out via GitHub or drop a message.
+
+---
+
+Made with ❤️ for learners and builders.  
+Happy Designing!
