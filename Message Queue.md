@@ -10,10 +10,6 @@ It allows services to send (publish) and receive (subscribe to) messages **witho
 
 A **Message Queue (MQ)** helps different parts of a system communicate by sending messages between producers (senders) and consumers (receivers). It decouples components and allows **asynchronous communication**.
 
----
-
-## 🔁 Publish-Subscribe Model (Pub-Sub)
-
 In the **Publish-Subscribe** model:
 
 - **Publishers** send messages to a "topic" or "channel"
@@ -109,16 +105,6 @@ In a microservices setup, a **worker service** (MS) might handle:
 - 🔹 Smooth traffic spikes with buffering  
 - 🔹 Retry logic for failed consumers  
 - 🔹 Fault-tolerant and resilient design  
-
-
----
-
-## ✅ Benefits of Using MQ
-
-- Decouples services  
-- Handles traffic spikes gracefully  
-- Improves fault tolerance  
-- Enables async processing and retry logic  
 
 ---
 
