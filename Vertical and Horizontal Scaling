@@ -1,1 +1,32 @@
+🔼 Vertical Scaling (Scale Up)
+Increases the capacity of a single machine by upgrading its hardware or software resources.
+Also known as: Scale Up
+Implementation: Easy to implement
+Communication: Network calls (RPC)
+Examples: MySQL, Amazon RDS
 
+✅ Advantages
+Increases individual capacity
+Easier to manage
+
+❌ Disadvantages
+Limited scalability
+Increased cost with high-end hardware
+Single point of failure
+
+🔁 Horizontal Scaling (Scale Out)
+Involves adding more machines (nodes) to distribute the load.
+Also known as: Scale Out
+Implementation: More complex
+Communication: Inter-process communication
+Examples: Cassandra, MongoDB, Gmail, YouTube, Yahoo
+
+✅ Advantages
+Increased capacity
+Improved performance
+Enhanced fault tolerance
+Reduces risk of single point of failure
+
+❌ Disadvantages
+Expensive setup
+Increased operational complexity and cost
