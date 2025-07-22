@@ -10,7 +10,7 @@ Whether you're preparing for interviews, working on backend architecture, or jus
 
 - 🔹 [Vertical vs Horizontal Scaling](<./Vertical and Horizontal Scaling.md>)
 - 🔹 [Load Balancers](<./Load Balancer.md>)
-- 🔹 Caching Strategies
+- 🔹 [Message Queue](<./Message Queue.md>)
 - 🔹 Database Sharding
 - 🔹 SQL vs NoSQL
 - 🔹 Database Replication
