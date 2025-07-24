@@ -13,7 +13,7 @@ Whether you're preparing for interviews, working on backend architecture, or jus
 - 🔹 [Message Queue](<./Message Queue.md>)
 - 🔹 [Database Sharding](<./Database Sharding.md>)
 - 🔹 [CDN and Caching](<./CDN and Caching.md>)
-- 🔹 [Pub-Subs and Event-Driven Architecture](<./Pub-Subs and Event Driven Architecture.md>)
+- 🔹 [Pub-Subs and Event-Driven Architectures](<./Pub-Subs and Event Driven Architectures.md>)
 - 🔹 SQL vs NoSQL
 - 🔹 Database Replication
 - 🔹 CAP Theorem
