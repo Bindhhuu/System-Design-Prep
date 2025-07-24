@@ -12,7 +12,8 @@ Whether you're preparing for interviews, working on backend architecture, or jus
 - 🔹 [Load Balancers](<./Load Balancer.md>)
 - 🔹 [Message Queue](<./Message Queue.md>)
 - 🔹 [Database Sharding](<./Database Sharding.md>)
-- 🔹 [CDN and Caching](<./CDN and Caching.md>) 
+- 🔹 [CDN and Caching](<./CDN and Caching.md>)
+- 🔹 [Pub-Subs and Event-Driven Architecture](<./Pub-Subs and Event Driven Architecture.md>)
 - 🔹 SQL vs NoSQL
 - 🔹 Database Replication
 - 🔹 CAP Theorem
@@ -21,7 +22,7 @@ Whether you're preparing for interviews, working on backend architecture, or jus
 - 🔹 API Gateway
 - 🔹 Fault Tolerance & High Availability
 - 🔹 Message Queues
-- 🔹 Event-Driven Architecture
+
 - 🔹 Microservices vs Monolith
 
 > 🛠 More topics and diagrams coming soon!
