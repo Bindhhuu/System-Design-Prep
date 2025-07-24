@@ -12,11 +12,11 @@ Whether you're preparing for interviews, working on backend architecture, or jus
 - 🔹 [Load Balancers](<./Load Balancer.md>)
 - 🔹 [Message Queue](<./Message Queue.md>)
 - 🔹 [Database Sharding](<./Database Sharding.md>)
+- 🔹 [CDN and Caching](<./CDN and Caching.md>) 
 - 🔹 SQL vs NoSQL
 - 🔹 Database Replication
 - 🔹 CAP Theorem
 - 🔹 Consistent Hashing
-- 🔹 CDN (Content Delivery Network)
 - 🔹 Rate Limiting
 - 🔹 API Gateway
 - 🔹 Fault Tolerance & High Availability
