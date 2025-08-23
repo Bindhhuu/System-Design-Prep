@@ -14,7 +14,7 @@ Whether you're preparing for interviews, working on backend architecture, or jus
 - 🔹 [Database Sharding](<./Database Sharding.md>)
 - 🔹 [CDN and Caching](<./CDN and Caching.md>)
 - 🔹 [Pub-Subs and Event-Driven Architectures](<./Pub-Subs and Event Driven Architectures.md>)
-- 🔹 SQL vs NoSQL
+- 🔹 [SQL vs NoSQL](<./SQL vs NoSQL.md>)
 - 🔹 Database Replication
 - 🔹 CAP Theorem
 - 🔹 Consistent Hashing
