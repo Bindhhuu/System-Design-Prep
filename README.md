@@ -19,7 +19,7 @@ Whether you're preparing for interviews, working on backend architecture, or jus
 - 🔹 CAP Theorem
 - 🔹 Consistent Hashing
 - 🔹 Rate Limiting
-- 🔹 API Gateway
+- 🔹 [API Gateway](<./API Gateway.md>)
 - 🔹 Fault Tolerance & High Availability
 - 🔹 Message Queues
 
