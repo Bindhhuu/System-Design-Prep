@@ -21,9 +21,7 @@ Whether you're preparing for interviews, working on backend architecture, or jus
 - 🔹 Rate Limiting
 - 🔹 [API Gateway](<./API Gateway.md>)
 - 🔹 Fault Tolerance & High Availability
-- 🔹 Message Queues
-
-- 🔹 Microservices vs Monolith
+- 🔹 [Microservices vs Monolith](<./Microservices vs Monolith.md>)
 
 > 🛠 More topics and diagrams coming soon!
 
