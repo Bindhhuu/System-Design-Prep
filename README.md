@@ -15,13 +15,14 @@ Whether you're preparing for interviews, working on backend architecture, or jus
 - 🔹 [CDN and Caching](<./CDN and Caching.md>)
 - 🔹 [Pub-Subs and Event-Driven Architectures](<./Pub-Subs and Event Driven Architectures.md>)
 - 🔹 [SQL vs NoSQL](<./SQL vs NoSQL.md>)
-- 🔹 Database Replication
-- 🔹 CAP Theorem
+- 🔹 [OAuth](<./OAuth.md>)
+- 🔹 [API Gateway](<./API Gateway.md>)
+- 🔹 [Microservices vs Monolith](<./Microservices vs Monolith.md>)
+- 🔹 [System Design Tradeoffs](<./System Design Tradeoffs.md>)
 - 🔹 Consistent Hashing
 - 🔹 Rate Limiting
-- 🔹 [API Gateway](<./API Gateway.md>)
 - 🔹 Fault Tolerance & High Availability
-- 🔹 [Microservices vs Monolith](<./Microservices vs Monolith.md>)
+- 
 
 > 🛠 More topics and diagrams coming soon!
 
